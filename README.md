@@ -1,2 +1,2 @@
 # netology-first-project
-Study task for the first Django project in Netology
+Study task for the Django project in Netology
